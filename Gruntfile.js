@@ -22,5 +22,5 @@ module.exports = function(grunt){
     }
   });
 
-  grunt.registerTask('serve', ['connect:server','watch']);
+  grunt.registerTask('serve', ['connect:serve','watch']);
 };
