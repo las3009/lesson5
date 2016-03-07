@@ -1,0 +1,20 @@
+{
+  "name": "lesson5",
+  "description": "Todo List App",
+  "main": "Gruntfile.js",
+  "authors": [
+    "Dave Calleja"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/las3009/lesson5",
+  "moduleType": [],
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
