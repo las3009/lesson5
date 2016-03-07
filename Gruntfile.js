@@ -12,14 +12,6 @@ module.exports = function(grunt){
         }
       }
     },
-    connect: {
-      server: {
-        options: {
-          port:1234,
-          base:'.'
-        }
-      }
-    }
   });
 
   grunt.registerTask('serve', ['connect:server','watch']);
